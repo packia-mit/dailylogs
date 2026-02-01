@@ -1,0 +1,21 @@
+--------------------------------------------------
+Day # 4 - Feb 01, 2026 - Sunday
+------------------------------------------
+SUBLIME 
+
+AIzaSyBvVMBUtxjTcCTxZGj4qiUEABGQpuoIysM -- gemini api key
+
+Day 1 (Foundational Large Language Models & Prompt Engineering) 
+D1 -- Resources used --  https://www.youtube.com/watch?v=xCAVsst6WJ8&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=4
+codelabs from kaggele done 
+basic prompting done
+api key error 
+took notes in notebookllm
+
+pending -- 1
+API KEY ERROR 
+
+Time -- 7hourss
+
+
+------------------------/
