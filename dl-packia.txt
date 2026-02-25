@@ -19,3 +19,58 @@ Time -- 7hourss
 
 
 ------------------------/
+
+---------------------------------------------------
+Day # 18- Feb 22, 2026 - Sunday
+------------------------------------------
+
+---------------
+
+Task 01 : Langchain concepts with exploring llama.cpp session by vipranan 	- L2 - Success - 10:18pm - 01:00 pm IST
+Task 02 : Industry grade FastAPI session by CSP 							- L1 - Success - 6:30 pm - 8:45 pm IST
+Task 03 : Industry grade FastAPI handson session by Vipranan 				- L2 - Success - 9:15 pm - 12:30 pm IST
+
+
+
+
+
+Total Working Hours: 8 hours
+
+---------------/
+
+--------------------------------------------------
+Day # 19 - Feb 23, 2026 - Monday
+------------------------------------------
+---------------
+Task 01 :fastapi code learning                 						- L2 - Success - 10:45am - 1:30pm
+
+Task 02 :Fastapi assignment handson supported by vipranan         	- L2 - Success - 7:15 pm - 1:00 am
+
+     
+Total Working Hours:8.5hrs
+
+---------------/
+--------------------------------------------------
+Day # 19 - Feb 23, 2026 - Monday
+
+---------------------------
+
+Task 01 : Need to make setup to Mouses machine 
+
+public repo 
+python basics 
+
+===================================
+
+Task  -- 25-Feb-2026 - Wenesday
+
+-------------->
+
+1)	session summary 
+
+2)	stargery plan for talented student from lethachy state to responsbile state 
+
+3)	Zoom Power Hours calculator model preparation 
+
+
+

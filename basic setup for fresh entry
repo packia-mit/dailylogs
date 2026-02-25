@@ -1,0 +1,62 @@
+basic setup for fresh entry 
+
+INSTALL 
+
+  ---1) Brave browser install and default browser 
+
+  			---- setting ---Theme appearance dark mode 
+  			---- Search engine Normal mode DuckDuckgo 
+
+     2) Slack install and invite link 
+
+
+     3) Github
+
+     		username is should be samll case  (numbers not allowed)
+
+     			
+
+     4) Install to git bash 
+
+         ----brave ---- git bash download ---git.scm.com----windows for 64bit 
+
+         		ssh-keygen -t rsa -b 4096 -C "email@gmail.com"
+
+				eval "$(ssh-agent -s)"
+
+				ssh-add ~/.ssh/id_rsa
+
+				cat ~/.ssh/id_rsa.pub
+    				(then copy the content)
+
+    			copy and paste the ssh key on Github/Gitlab
+
+    			Refer With Wiki kact SSH Key 
+
+     5) Anaconda Prompt 
+
+
+       ----Miniconda -----https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
+
+     6) Conda Enviroment creation  Installation 
+
+       			Anaconda prompt Terminal 
+
+       			conda create --name py312 python=3.12 --yes ----conda env list ---conda activate py312
+
+      7) Create Directory 
+       			Anaconda prompt Terminal 
+
+					mkdir kact folder create
+
+					cd kact 
+
+		8) VS code  Instation 
+
+				Brave --- vs code download and install 
+
+				kact folder creation 
+
+		9) Gitbook setting 
+
+			Google account login--organisation name (your name)--
