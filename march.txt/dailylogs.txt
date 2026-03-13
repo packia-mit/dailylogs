@@ -1,0 +1,35 @@
+Daily logs
+
+--------------------------------------------------
+Day # 29 - Mar 11, 2026 - Wenesday
+------------------------------------------
+
+---------------
+
+Task 01 : Trello task 								 					- L1 - Success - 10:30 - 10:45 am IST
+Task 02 : Zoom Power Hour Model sheet templete creation					- L1 - Success - 10:46 - 11:30 am IST
+Task 03 : Python Basics Learning and Handson 							- L1 - Success - 11:36 - 12:15 pm IST
+Task 04 : FastAPI -- CRUD operations using Mongodb handson 				- L1 - Success - 12:16 - 2:45 pm IST
+Task 05 : Preparation of LinkedIN influencer 							- L1 - Success - 8:55 -  10:10 pm IST
+Task 05 : Setting up mongodb in Ashwin's system and running a program	- L1 - Success - 10:11 - 11:45 pm IST
+Task 06 : FastAPI-MongoDB Validation 								 	- L1 - Success - 11:46 - 12:45 am IST
+
+Total Working Hours : 8 hrs
+
+-----------------------------/
+
+--------------------------------------------------
+Day # 30 - Mar 12, 2026 - Thursday
+------------------------------------------
+
+---------------
+
+Task 01 : FastAPI MongoDB Ashwin code clarification session with Raja sir	- L1 - Success - 10:00 - 12:01 pm IST
+Task 02 : Preparation and post of LinkedIN influencer 						- L1 - Success - 12:05 -  1:30 pm IST
+Task 03 : Python Basics Learning and Handson 								- L1 - Success - 1:36 - 3:00 pm IST
+Task 04 : FastAPI -- CRUD operations using Mongodb discussion with team		- L1 - Success - 8:00 - 12:01 am IST
+Task 05 : Setting up Ubuntu Zsh Terminal with support by Vishnu 			- L1 - Success - 12:02 - 1:00 am IST
+
+Total Working Hours : 9.5 hrs
+
+-----------------------------/
